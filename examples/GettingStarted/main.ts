@@ -1,4 +1,4 @@
-import * as PackageName from '../../dist/package-name.js';
+import * as PackageName from '../../lib/PackageName';
 
 const vector = new PackageName.Vector2(3, 4);
 

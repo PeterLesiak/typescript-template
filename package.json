@@ -1,10 +1,9 @@
 {
   "name": "package-name",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "build": "tsc && vite build",
-    "preview": "vite preview",
     "dev": "vite",
     "lint": "eslint .",
     "format": "prettier . --fix"
