@@ -1,0 +1,1 @@
+(function(e,t){typeof exports=="object"&&typeof module<"u"?t(exports):typeof define=="function"&&define.amd?define(["exports"],t):(e=typeof globalThis<"u"?globalThis:e||self,t(e.PackageName={}))})(this,function(e){"use strict";class t{constructor(o,i){this.x=o,this.y=i}}e.Vector2=t,Object.defineProperty(e,Symbol.toStringTag,{value:"Module"})});
